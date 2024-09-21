@@ -1,5 +1,5 @@
 {
-  "name": "react-multiselect-component",
+  "name": "@stanskysolutions/react-multiselect-component",
   "version": "1.0.0",
   "description": "A customizable, searchable multiselect dropdown built with React and ShadCN components.",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": ["react", "multiselect", "dropdown", "component"],
-  "author": "",
+  "author": "Stansky Solutions",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.3.8",
